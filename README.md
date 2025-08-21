@@ -1,5 +1,5 @@
 # DEPI-GROUP-4-UI-UX-PROJECT
-UI/UX case study for a diabetes management applicatio
+UI/UX case study for a diabetes management application
 ## Team members 
 - Ahmed Ayman 
 - Ahmed Mohamed 
