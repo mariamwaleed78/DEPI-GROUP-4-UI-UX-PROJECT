@@ -3,7 +3,8 @@ UI/UX case study for a diabetes management applicatio
 ## Team members 
 - Ahmed Ayman 
 - Ahmed Mohamed 
-- Mariam Waleed 
+- Mariam Waleed
+- Moataz Mostafa
 - Abrar Hesham
 #  Diabetes Care App
 
